@@ -61,21 +61,25 @@ Christmas is coming soon. Many people are hurrying to take flights back home and
 
 The servers of the document management system are out-of-date. The international law firm is trying to get some new servers for storage. We need to migrate the data from the old servers to the new servers. 
 - Assumptions:
+  - The documents are stored distributedly through multiple servers.
   - All the documents stored at the document management system contain highly confidential information
   - All the requests to the documents should be approved by the manager. Anyone who tries to get the information from the system without approval is illegitimate.
   - All the servers for storing the documents are reliable. In short time, there should be no data loss.
   - The software document management system can run reliably.
-  - //The document management operating staff do no illegal operations to the document management system.
 - Assets:
   - The confidentality of the documents should be preserved by document management system.
   - The integrity of the documents during data migration from old servers to new servers.
-  - The 
+  - The reliability of servers. Make sure the servers won't be attacked easily by hackers
 - Threats:
-  - explanatory_paragraph 
-  - explanatory_paragraph ...
+  - Hackers could attack the servers and obtain information
+  - Document could be lost during the migration of the documents
+  - Docuemnts could be printed out and information may leak
+  - The document management operating staff could do illegal operations to the document management system 
 - Countermeasures:
-  - We can build some backup servers for the
-  - explanatory_paragraph ...
+  - We can build some backup servers for the information stored in our system. Cost:high, Benefits: perserve the data more securely
+  - Add password for each document and the password can only be get through the permission of system manager. Cost: low, Benefits: perserve the data more securely
+  - Build the Local Area Network(LAN) for servers in our system and isolate our system from outside.Cost: medium, Benefits: servers won't be attacked easily. 
+ 
 
 ## Problem 3
 - Scenario: Your choice (give a brief explanation)
