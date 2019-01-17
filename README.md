@@ -82,7 +82,7 @@ The servers of the document management system are out-of-date. The international
  
 
 ## Problem 3
-- Scenario: Assume I am the organizer of a campus event, I have made a survey to collect the information of the attendees of the event.
+- Scenario: Assume I am the organizer of one campus event, I have made a survey to collect the information of the attendees of the event.
 - Assumptions:
   - Every student who attend the event must complete the survey and submit
   - The information submitted by every student is correct and accurate.
@@ -92,10 +92,14 @@ The servers of the document management system are out-of-date. The international
   - The personal information of the attendees, including the IDs, Names, Birthday 
   - When and Where the event will happen
   - The number of student who attend the event
+  - The purpose of the event
 - Threats:
   - Other students who do not attend the event could submit the wrong information 
-  - 
+  - Other students could also attend the event if he/she knows the place and time event will take place
+  - The information collected by our survey can be obtained by hackers.
 - Countermeasures:
-  - Use a URL 
-  - explanatory_paragraph ...
+  - Use a URL for the survey that could not find easily by other people. Cost: Low, Benefits: other student may not find the survey
+  - Set the expiration time for the survey. Cost: low, Benefits:other student could not submit their information after expiration. Cost:low, Benefits: we may get fewer wrong information
+  - Delete all the personal information collected by the survey after the event. Cost:low, Benefits: maintain the confidentiality of the personal information of the students.
+  
 
