@@ -11,9 +11,9 @@ and will be rendered to beautiful HTML when you visit your GitHub repo.
 ## Student Information
 Please also edit _README.md_ and replace your instructor's name and NetID with your own:
 
-_Student name_: Dan WALLACH
+_Student name_: Yuxin Tang
 
-_Student NetID_: dwallach
+_Student NetID_: yt33
 
 Your NetID is typically your initials and a numeric digit. That's
 what we need here.
@@ -21,27 +21,31 @@ what we need here.
 _If you contacted us in advance and we approved a late submission,
 please cut-and-paste the text from that email here._
 
+What assets are important for you to protect?
+What security threats will you choose to defend against?
+What countermeasures can you justify, in terms of costs and benefits?
+
 ## Problem 1
-- Scenario: {Stadium|TSA|Documents|Grading|G20}
+- Scenario: As head of the TSA, you set the rules for screening passengers at airport checkpoints.
 - Assumptions:
-  - explain_your_assumptions
+  - TSAs 
 - Assets:
-  - explanatory_paragraph
-  - explanatory_paragraph ...
+  - The safety for the public environment of airport
+  - The privacy of the passenger, including the passenger's personal 
 - Threats:
-  - explanatory_paragraph 
-  - explanatory_paragraph ...
+  - Metallic and non-metallic threats, including weapons and explosives
+  - Some 
 - Countermeasures:
-  - explanatory_paragraph
-  - explanatory_paragraph ...
+  - 
+  - 
 
 ## Problem 2
-- Scenario: {Stadium|TSA|Documents|Grading|G20}
+- Scenario: {Documents}
 - Assumptions:
-  - explain_your_assumptions
+  - 
 - Assets:
-  - explanatory_paragraph
-  - explanatory_paragraph ...
+  - 
+  - 
 - Threats:
   - explanatory_paragraph 
   - explanatory_paragraph ...
