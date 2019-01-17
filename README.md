@@ -82,16 +82,20 @@ The servers of the document management system are out-of-date. The international
  
 
 ## Problem 3
-- Scenario: Your choice (give a brief explanation)
+- Scenario: Assume I am the organizer of a campus event, I have made a survey to collect the information of the attendees of the event.
 - Assumptions:
-  - explain_your_assumptions
+  - Every student who attend the event must complete the survey and submit
+  - The information submitted by every student is correct and accurate.
+  - This is a private event. Other student should not know the exact time and place the event will take place. 
+  - Every student do the survey online.
 - Assets:
-  - explanatory_paragraph
-  - explanatory_paragraph ...
+  - The personal information of the attendees, including the IDs, Names, Birthday 
+  - When and Where the event will happen
+  - The number of student who attend the event
 - Threats:
-  - explanatory_paragraph 
-  - explanatory_paragraph ...
+  - Other students who do not attend the event could submit the wrong information 
+  - 
 - Countermeasures:
-  - explanatory_paragraph
+  - Use a URL 
   - explanatory_paragraph ...
 
