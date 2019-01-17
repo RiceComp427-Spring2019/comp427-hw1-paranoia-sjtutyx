@@ -48,11 +48,14 @@ Christmas is coming soon. Many people are hurrying to take flights back home and
   - Passenger's information(ID, name, birthday, nationality) may be collected at checkpoint. Those information should not be leaked or stolen.
   - Body scanner should do no harm to the health of the passenger. Screening machines should do no damage to passenger's baggage.
   - The time of passenger should not be wasted at the checkpoint. Make sure passengers can catch up on the flight.
-  - Someone could use the quick-pass channel to 
+  - Someone could use the quick-pass channel to escape the tedious checking procedures. 
 - Countermeasures:
-  - Buy screening machines with high precision. If anything abnormal happens, check the belongings of the passenger manually.
-  - Purchase body scanner with good quality to protect the health of the passenger.
-  - Arrange enough 
+  - Buy screening machines with high precision. If anything abnormal happens, check the belongings of the passenger manually. Cost: high, Benefits: check the passenger's baggage more carefully.
+  - Purchase body scanner with good quality to protect the health of the passenger. Cost: high, Benefits: protect the body for passengers.
+  - Arrange enough staff around the checkpoint for manually checking passenger's baggages. Cost: medium, Benefits: check the belongings of passenger manually
+  - Make a good plan to handle emergency (e.g. Someone carries weapons).
+  - Make a good plan to let people use the quick-pass channel.
+  - Delete those personal information collected from passengers.
 ## Problem 2
 - Scenario: {Documents}
 - Assumptions:
