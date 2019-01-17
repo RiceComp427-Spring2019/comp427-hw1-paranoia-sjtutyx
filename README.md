@@ -52,10 +52,10 @@ Christmas is coming soon. Many people are hurrying to take flights back home and
 - Countermeasures:
   - Buy screening machines with high precision. If anything abnormal happens, check the belongings of the passenger manually. Cost: high, Benefits: check the passenger's baggage more carefully.
   - Purchase body scanner with good quality to protect the health of the passenger. Cost: high, Benefits: protect the body for passengers.
-  - Arrange enough staff around the checkpoint for manually checking passenger's baggages. Cost: medium, Benefits: check the belongings of passenger manually
-  - Make a good plan to handle emergency (e.g. Someone carries weapons).
-  - Make a good plan to let people use the quick-pass channel.
-  - Delete those personal information collected from passengers.
+  - Arrange enough staff around the checkpoint for manually checking passenger's baggages. Cost: medium, Benefits: check the belongings of passenger manually.
+  - Make a good plan to handle emergency (e.g. To handle the weapons and explosives, we may arrange some policeman at the airport). Cost: high, Benefits: can handle the emergencies.
+  - Make a good plan to let people use the quick-pass channel.(e.g., only passengers who do not have baggages can go through the quick-pass channel.) Cost: low, Benefits: save passenger's time and make checkpoint less crowded. 
+  - Delete those personal information collected from passengers. Cost: low, Benefits: can provide security guarantee for passenger personal information.
 ## Problem 2
 - Scenario: {Documents}
 - Assumptions:
