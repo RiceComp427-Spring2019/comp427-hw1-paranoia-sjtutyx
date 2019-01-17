@@ -22,7 +22,9 @@ _If you contacted us in advance and we approved a late submission,
 please cut-and-paste the text from that email here._
 
 What assets are important for you to protect?
+
 What security threats will you choose to defend against?
+
 What countermeasures can you justify, in terms of costs and benefits?
 
 ## Problem 1
