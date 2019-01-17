@@ -27,13 +27,14 @@ What countermeasures can you justify, in terms of costs and benefits?
 
 ## Problem 1
 - Scenario: As head of the TSA, you set the rules for screening passengers at airport checkpoints.
+
 Christmas is coming soon. Many people are hurrying to take flights back home and gather with their family. So the airport is super crowded at this time. Due to the limited number of screening machines, people need to wait at the checkpoints for a long time.
 - Assumptions:
   - Every passenger's ID (passport Number), name, birthday, nationality and other information are needed for checking.
   - Every passenger will carry some personal belongings containing some personal information.
-  - Every passenger needs to send all the personal carrying to the screening machines and go through the body scanner.
-  - To save the time of passengers, some special quick-pass channels should be opened when the checkpoint is very crowded. 
-  - The screening machine may not be 100% accurate all the time. If necessary, TSA needs to check the passenger's personal belongs manually.  
+  - Every passenger needs to send all personal carrying to the screening machines and go through body scanner.
+  - To save the time, some special quick-pass channels should be opened when the checkpoint is very crowded. 
+  - Screening machine may not be 100% accurate all the time. If necessary, TSA needs to check the passenger's personal belongs manually.  
 - Assets:
   - The safety for the public environment of airport including public facilities, airport property, aircraft. No acts of terrorism, sabotage and threat to life should be allowed.
   - The privacy of the passenger including the passenger's personal carrying, passenger-specific images, flight number etc. 
