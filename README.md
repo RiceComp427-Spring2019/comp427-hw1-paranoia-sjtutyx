@@ -34,7 +34,7 @@ Christmas is coming soon. Many people are hurrying to take flights back home and
   - Every passenger will carry some personal belongings containing some personal information.
   - Every passenger needs to send all personal carrying to the screening machines and go through body scanner.
   - To save the time, some special quick-pass channels should be opened when the checkpoint is very crowded. 
-  - Screening machine may not be 100% accurate all the time. If necessary, TSA needs to check the passenger's personal belongs manually.  
+  - Screening machine cannot check all the potential threats. If necessary, TSA needs to check the passenger's personal belongs manually.  
 - Assets:
   - The safety for the public environment of airport including public facilities, airport property, aircraft. No acts of terrorism, sabotage and threat to life should be allowed.
   - The privacy of the passenger including the passenger's personal carrying, passenger-specific images, flight number etc. 
