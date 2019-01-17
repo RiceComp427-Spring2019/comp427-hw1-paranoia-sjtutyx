@@ -87,16 +87,16 @@ The servers of the document management system are out-of-date. The international
   - Every student who attend the event must complete the survey and submit
   - The information submitted by every student is correct and accurate.
   - This is a private event. Other student should not know the exact time and place the event will take place. 
-  - Every student do the survey online.
+  - Every student does the survey online.
 - Assets:
   - The personal information of the attendees, including the IDs, Names, Birthday 
-  - When and Where the event will happen
-  - The number of student who attend the event
-  - The purpose of the event
+  - When and Where the event will take place
+  - The number of students who attend the event
+  - The purpose of the event (shown on the survey)
 - Threats:
   - Other students who do not attend the event could submit the wrong information 
   - Other students could also attend the event if he/she knows the place and time event will take place
-  - The information collected by our survey can be obtained by hackers.
+  - The information collected by our survey can be obtained by hackers
 - Countermeasures:
   - Use a URL for the survey that could not find easily by other people. Cost: Low, Benefits: other student may not find the survey
   - Set the expiration time for the survey. Cost: low, Benefits:other student could not submit their information after expiration. Cost:low, Benefits: we may get fewer wrong information
