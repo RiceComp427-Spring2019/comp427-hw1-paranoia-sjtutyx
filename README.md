@@ -57,12 +57,19 @@ Christmas is coming soon. Many people are hurrying to take flights back home and
   - Make a good plan to let people use the quick-pass channel.(e.g., only passengers who do not have baggages can go through the quick-pass channel.) Cost: low, Benefits: save passenger's time and make checkpoint less crowded. 
   - Delete those personal information collected from passengers. Cost: low, Benefits: can provide security guarantee for passenger personal information.
 ## Problem 2
-- Scenario: {Documents}
+- Scenario: As head of IT for an international law firm, you are responsible for a document management system; some documents stored there are about sensitive legal, financial, or political matters.
+
+The servers of the document management system are out-of-date. The international law firm is trying to get some new servers for storage. We need to migrate the data from the old servers to the new servers. 
 - Assumptions:
-  - 
+  - All the documents stored at the document management system contain highly confidential information
+  - All the requests to the documents should be approved by the manager. Anyone who tries to get the information from the system without approval is illegitimate.
+  - All the servers for storing the documents are reliable. In short time, there should be no data loss.
+  - The software document management system can run reliably.
+  - //The document management operating staff do no illegal operations to the document management system.
 - Assets:
-  - 
-  - 
+  - The confidentality of the documents should be preserved by document management system.
+  - The integrity of the documents during data migration from old servers to new servers.
+  - The 
 - Threats:
   - explanatory_paragraph 
   - explanatory_paragraph ...
