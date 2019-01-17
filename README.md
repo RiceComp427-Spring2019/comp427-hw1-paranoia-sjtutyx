@@ -47,7 +47,7 @@ Christmas is coming soon. Many people are hurrying to take flights back home and
   - Metallic and non-metallic threats, including weapons and explosives.
   - Passenger's information(ID, name, birthday, nationality) may be collected at checkpoint. Those information should not be leaked or stolen.
   - Body scanner should do no harm to the health of the passenger. Screening machines should do no damage to passenger's baggage.
-  - The time of passenger should not be wasted at the checkpoint.
+  - The time of passenger should not be wasted at the checkpoint. Make sure passengers can catch up on the flight.
 - Countermeasures:
   - 
   - 
