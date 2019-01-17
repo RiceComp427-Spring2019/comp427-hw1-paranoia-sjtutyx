@@ -74,7 +74,7 @@ The servers of the document management system are out-of-date. The international
   - explanatory_paragraph 
   - explanatory_paragraph ...
 - Countermeasures:
-  - explanatory_paragraph
+  - We can build some backup servers for the
   - explanatory_paragraph ...
 
 ## Problem 3
