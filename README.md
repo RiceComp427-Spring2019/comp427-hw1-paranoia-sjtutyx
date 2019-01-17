@@ -34,13 +34,14 @@ Christmas is coming soon. Many people are hurrying to take flights back home and
 - Assumptions:
   - Every passenger's ID (passport Number), name, birthday, nationality and other information are needed for checking.
   - Every passenger will carry some personal belongings containing some personal information.
-  - Every passenger needs to send all personal carrying to the screening machines and go through body scanner.
+  - Every passenger needs to send all personal baggages to the screening machines and go through body scanner.
   - To save the time, some special quick-pass channels should be opened when the checkpoint is very crowded. 
   - Screening machine cannot check all the potential threats. If necessary, TSA needs to check the passenger's personal belongs manually.  
 - Assets:
   - The safety for the public environment of airport including public facilities, airport property, aircraft. No acts of terrorism, sabotage and threat to life should be allowed.
-  - The privacy of the passenger including the passenger's personal carrying, passenger-specific images, flight number etc. 
-  - 
+  - The safety of passenger body and personal belongings. The screen machine should do no damage to passenger's baggage. The body scanner should pose no threat to the health of the passenger.
+  - The privacy of the passenger including the content in passenger's personal baggage, passenger-specific images, flight number etc. 
+  - The precious time of passenger. The TSA should ensure the checking time won't be too long, otherwise passenger may miss the flight.
   
 - Threats:
   - Metallic and non-metallic threats, including weapons and explosives
